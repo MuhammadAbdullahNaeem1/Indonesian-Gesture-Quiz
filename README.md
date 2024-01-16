@@ -12,6 +12,14 @@ Dynamic tracking and recognition of hand movements in real-time.
 Engaging gameplay with a 5-question challenge, each under a 10-second countdown.
 Visual feedback on correctness and final score display.
 
+
+# Installation
+First type the commands on the terminal
+pip install opencv-python
+pip install mediapipe
+run the program by 
+python code_1.py
+
 # 🕹️ How to Play:
 
 Open your hands wide for detection.
